@@ -79,7 +79,7 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "MC-Reisen24",
     "styles": {
