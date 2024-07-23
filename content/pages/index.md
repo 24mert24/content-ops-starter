@@ -182,7 +182,8 @@ sections:
           https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733221/Pegasus-Airlines-Logo_zx2frk.png
         altText: Pegasus Airlines
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: >-
+          http://res.cloudinary.com/drysaqg2v/image/upload/v1721733336/AJet_Logo_d39kvf.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
