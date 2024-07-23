@@ -7,7 +7,7 @@ sections:
       text: 'Ihr persönlicher Reisepartner: Von der Planung bis zur Rückkehr'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       Willkommen bei Ihrem vertrauenswürdigen Reisepartner! Wir bieten Ihnen
       alles, was Sie für eine unvergessliche Reise benötigen – von günstigen
