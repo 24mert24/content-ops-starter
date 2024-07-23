@@ -183,7 +183,7 @@ sections:
         altText: Pegasus Airlines
         type: ImageBlock
       - url: >-
-          http://res.cloudinary.com/drysaqg2v/image/upload/v1721733336/AJet_Logo_d39kvf.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733336/AJet_Logo_d39kvf.png
         altText: A Jet
         type: ImageBlock
       - url: /images/sanity-logo.svg
