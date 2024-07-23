@@ -102,7 +102,7 @@ sections:
         image:
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/plane-7950995_1280_rv0jzt.png
-          altText: Featured icon three
+          altText: Flughafentransfer
           elementId: ''
           type: ImageBlock
         actions: []
