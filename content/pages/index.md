@@ -35,7 +35,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: Unser Angebot
     items:
       - type: FeaturedItem
         title: Günstige Preise
