@@ -172,7 +172,7 @@ sections:
     images:
       - url: >-
           https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200/v1721732484/images_yoyizi.png
-        altText: Empathy logo
+        altText: Turkish Airlines
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
