@@ -22,15 +22,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: >-
         http://res.cloudinary.com/drysaqg2v/image/upload/v1721736415/travel-4865665_1280_njuwhb.jpg
