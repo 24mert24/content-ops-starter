@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Ihr persönlicher Reisepartner: Von der Planung bis zur Rückkehr'
+      text: Von der Planung bis zur Rückkehr
       color: text-dark
       type: TitleBlock
     subtitle: ''
