@@ -175,7 +175,7 @@ sections:
         altText: Turkish Airlines
         type: ImageBlock
       - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200/v1721732628/sunexpress-deutschland_zoctxr.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733138/il_570xN.2419267067_nejw_cjorvi.webp
         altText: Sun Express
         type: ImageBlock
       - url: /images/telus-logo.svg
