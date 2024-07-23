@@ -195,7 +195,8 @@ sections:
         altText: Eurowings
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: >-
+          http://res.cloudinary.com/drysaqg2v/image/upload/v1721733854/Condor_logo_2022.svg_mmr3wg.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
