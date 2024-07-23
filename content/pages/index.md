@@ -194,6 +194,13 @@ sections:
           https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_201,h_113,ar_16:9/v1721733854/images_2_uzfrk9.png
         altText: Eurowings
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
