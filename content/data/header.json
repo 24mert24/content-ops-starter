@@ -81,5 +81,12 @@
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": "MC-Reisen24"
+    "title": "MC-Reisen24",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6"
+            ]
+        }
+    }
 }
