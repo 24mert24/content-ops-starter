@@ -100,7 +100,8 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/plane-7950995_1280_rv0jzt.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
