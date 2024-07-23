@@ -171,7 +171,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_100,h_100/v1721732198/Turkish-Airlines-symbol_wk0sub.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_100/v1721732484/images_yoyizi.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/vise-logo.svg
