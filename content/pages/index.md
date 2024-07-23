@@ -16,16 +16,7 @@ sections:
       erholsamen Strandurlaub oder eine aufregende Rundreise planen, wir sind an
       Ihrer Seite.
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: >-
         http://res.cloudinary.com/drysaqg2v/image/upload/v1721736415/travel-4865665_1280_njuwhb.jpg
