@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: 'Die Airlines, mit den meisten Kooperationen'
+  - subtitle: Bei uns finden Sie Angebote für alle Airlines
     images:
       - url: >-
           https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733021/fe84f4e23508db9eb782a93499997bab_lxdvxg.png
