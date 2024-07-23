@@ -191,7 +191,7 @@ sections:
         altText: Lufthansa
         type: ImageBlock
       - url: >-
-          http://res.cloudinary.com/drysaqg2v/image/upload/v1721733854/images_2_uzfrk9.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733854/images_2_uzfrk9.png
         altText: Eurowings
         type: ImageBlock
     motion: move-to-left
