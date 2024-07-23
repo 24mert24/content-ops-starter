@@ -188,7 +188,7 @@ sections:
         type: ImageBlock
       - url: >-
           http://res.cloudinary.com/drysaqg2v/image/upload/v1721733573/images_1_t2bilr.png
-        altText: Sanity logo
+        altText: Lufthansa
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
