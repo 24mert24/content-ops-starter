@@ -74,7 +74,8 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/right-6229287_1280_ico8jy.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
