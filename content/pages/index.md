@@ -174,7 +174,8 @@ sections:
           https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200/v1721732484/images_yoyizi.png
         altText: Turkish Airlines
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: >-
+          http://res.cloudinary.com/drysaqg2v/image/upload/v1721732692/1_big_kiuktg.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
