@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Ihr persönlicher Reisepartner: Von der Planung bis zur Rückkehr'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
