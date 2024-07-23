@@ -176,7 +176,7 @@ sections:
         type: ImageBlock
       - url: >-
           https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200/v1721732628/sunexpress-deutschland_zoctxr.png
-        altText: Vise logo
+        altText: Sun Express
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
