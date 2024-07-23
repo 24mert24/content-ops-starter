@@ -204,7 +204,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/drysaqg2v/image/upload/v1721733854/Ryanair-Logo.wine_eushlj.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733854/Ryanair-Logo.wine_eushlj.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
