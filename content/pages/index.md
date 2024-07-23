@@ -191,7 +191,7 @@ sections:
         altText: Lufthansa
         type: ImageBlock
       - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_201,h_113,ar_16:9/v1721733854/images_2_uzfrk9.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721734196/Eurowings-Logo.wine_mbksj9.png
         altText: Eurowings
         type: ImageBlock
       - type: ImageBlock
