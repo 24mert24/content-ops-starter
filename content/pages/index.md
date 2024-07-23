@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Willkommen bei Ihrem vertrauenswürdigen Reisepartner! Wir bieten Ihnen
+      alles, was Sie für eine unvergessliche Reise benötigen – von günstigen
+      Flügen und sorgfältig zusammengestellten Pauschalreisen bis hin zu
+      bequemen Flughafentransfers. Egal, ob Sie einen kurzen Städtetrip, einen
+      erholsamen Strandurlaub oder eine aufregende Rundreise planen, wir sind an
+      Ihrer Seite.
+
     actions:
       - label: Get started
         altText: ''
