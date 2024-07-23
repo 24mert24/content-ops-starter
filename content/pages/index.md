@@ -184,7 +184,7 @@ sections:
         type: ImageBlock
       - url: >-
           http://res.cloudinary.com/drysaqg2v/image/upload/v1721733336/AJet_Logo_d39kvf.png
-        altText: Contentful logo
+        altText: AJet
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
