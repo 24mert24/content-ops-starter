@@ -8,14 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       Willkommen bei Ihrem vertrauenswürdigen Reisepartner! Wir bieten Ihnen
       alles, was Sie für eine unvergessliche Reise benötigen – von günstigen
       Flügen und sorgfältig zusammengestellten Pauschalreisen bis hin zu
-      bequemen Flughafentransfers. Egal, ob Sie einen kurzen Städtetrip, einen
-      erholsamen Strandurlaub oder eine aufregende Rundreise planen, wir sind an
-      Ihrer Seite.
-
+      bequemen Flughafentransfers.
     actions: []
     media:
       url: >-
