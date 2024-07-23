@@ -62,7 +62,8 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/euro-2461577_1280_rjf7s0.png
           styles:
             self:
               borderRadius: x-large
