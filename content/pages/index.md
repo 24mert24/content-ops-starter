@@ -192,7 +192,7 @@ sections:
         type: ImageBlock
       - url: >-
           http://res.cloudinary.com/drysaqg2v/image/upload/v1721733854/images_2_uzfrk9.png
-        altText: Rangle logo
+        altText: Eurowings
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
