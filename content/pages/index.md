@@ -187,7 +187,7 @@ sections:
         altText: A Jet
         type: ImageBlock
       - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733573/images_1_t2bilr.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113/v1721733667/Lufthansa_Logo_2018.svg_dmprjz.png
         altText: Lufthansa
         type: ImageBlock
       - url: /images/rangle-logo.svg
