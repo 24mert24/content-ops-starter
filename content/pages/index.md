@@ -51,6 +51,56 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - subtitle: Bei uns finden Sie Angebote für alle Airlines
+    images:
+      - url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_150,h_113/v1721733021/fe84f4e23508db9eb782a93499997bab_lxdvxg.png
+        altText: Turkish Airlines
+        type: ImageBlock
+      - url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733138/il_570xN.2419267067_nejw_cjorvi.webp
+        altText: Sun Express
+        type: ImageBlock
+      - url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733221/Pegasus-Airlines-Logo_zx2frk.png
+        altText: Pegasus Airlines
+        type: ImageBlock
+      - url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733336/AJet_Logo_d39kvf.png
+        altText: A Jet
+        type: ImageBlock
+      - url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113/v1721733667/Lufthansa_Logo_2018.svg_dmprjz.png
+        altText: Lufthansa
+        type: ImageBlock
+      - url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721734196/Eurowings-Logo.wine_mbksj9.png
+        altText: Eurowings
+        type: ImageBlock
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733854/Condor_logo_2022.svg_mmr3wg.png
+        altText: Condor
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733854/Ryanair-Logo.wine_eushlj.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -168,56 +218,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Bei uns finden Sie Angebote für alle Airlines
-    images:
-      - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_150,h_113/v1721733021/fe84f4e23508db9eb782a93499997bab_lxdvxg.png
-        altText: Turkish Airlines
-        type: ImageBlock
-      - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733138/il_570xN.2419267067_nejw_cjorvi.webp
-        altText: Sun Express
-        type: ImageBlock
-      - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733221/Pegasus-Airlines-Logo_zx2frk.png
-        altText: Pegasus Airlines
-        type: ImageBlock
-      - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733336/AJet_Logo_d39kvf.png
-        altText: A Jet
-        type: ImageBlock
-      - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113/v1721733667/Lufthansa_Logo_2018.svg_dmprjz.png
-        altText: Lufthansa
-        type: ImageBlock
-      - url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721734196/Eurowings-Logo.wine_mbksj9.png
-        altText: Eurowings
-        type: ImageBlock
-      - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733854/Condor_logo_2022.svg_mmr3wg.png
-        altText: Condor
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733854/Ryanair-Logo.wine_eushlj.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
