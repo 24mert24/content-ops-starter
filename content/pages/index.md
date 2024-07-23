@@ -203,7 +203,8 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: >-
+          http://res.cloudinary.com/drysaqg2v/image/upload/v1721733854/Ryanair-Logo.wine_eushlj.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
