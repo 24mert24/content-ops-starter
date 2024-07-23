@@ -179,7 +179,7 @@ sections:
         altText: Sun Express
         type: ImageBlock
       - url: >-
-          http://res.cloudinary.com/drysaqg2v/image/upload/v1721733221/Pegasus-Airlines-Logo_zx2frk.png
+          https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_200,h_113,ar_16:9/v1721733221/Pegasus-Airlines-Logo_zx2frk.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
