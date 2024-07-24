@@ -193,6 +193,11 @@ sections:
           - pl-0
           - pb-0
           - pr-0
+        margin:
+          - mt-24
+          - ml-24
+          - mb-24
+          - mr-24
       subtitle:
         textAlign: center
     type: ImageGallerySection
