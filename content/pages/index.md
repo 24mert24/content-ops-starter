@@ -248,7 +248,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Flüge
+      - title: ''
         tagline: ''
         subtitle: ''
         text: |+
