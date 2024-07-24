@@ -393,7 +393,7 @@ sections:
         padding:
           - pt-4
           - pl-10
-          - pb-6
+          - pb-4
           - pr-10
         justifyContent: center
       subtitle:
