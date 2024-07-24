@@ -140,7 +140,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 400
+        fontWeight: 700
   - subtitle: Bei uns finden Sie Angebote für alle Airlines
     images:
       - url: >-
