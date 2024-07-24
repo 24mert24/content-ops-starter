@@ -35,10 +35,10 @@ sections:
           - pb-9
           - pr-9
         margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
+          - mt-11
+          - ml-11
+          - mb-11
+          - mr-11
   - type: DividerSection
     title: Divider
     elementId: ''
