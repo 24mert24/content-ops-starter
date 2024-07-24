@@ -396,6 +396,11 @@ sections:
           - pb-4
           - pr-8
         justifyContent: center
+        margin:
+          - mt-6
+          - ml-6
+          - mb-6
+          - mr-6
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
