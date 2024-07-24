@@ -398,7 +398,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Zu den Hotels
             altText: ''
             url: /
             showIcon: false
