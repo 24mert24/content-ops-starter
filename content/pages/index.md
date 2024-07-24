@@ -365,7 +365,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Zu den Flugtransferen
+            label: Zu den Flugtransfers
             altText: ''
             url: /
             showIcon: true
