@@ -364,7 +364,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Vieles Weitere
         tagline: ''
         subtitle: ''
         text: ''
