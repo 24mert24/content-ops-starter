@@ -216,10 +216,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-8
+          - pl-8
+          - pb-8
+          - pr-8
         margin:
           - mt-0
           - ml-0
@@ -391,11 +391,16 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
+          - pt-9
+          - pl-9
+          - pb-9
+          - pr-9
         justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
