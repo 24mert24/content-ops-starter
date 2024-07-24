@@ -314,7 +314,7 @@ sections:
             url: /
             showIcon: false
             icon: ''
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
       - title: Mietwagen
