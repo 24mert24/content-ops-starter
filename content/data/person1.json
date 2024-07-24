@@ -30,7 +30,8 @@
             "borderRadius": "none",
             "justifyContent": "center",
             "margin": [
-                "mr-0"
+                "mr-0",
+                "ml-36"
             ]
         }
     },
