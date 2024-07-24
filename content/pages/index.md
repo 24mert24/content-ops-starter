@@ -133,10 +133,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-8
-          - pt-8
-          - pl-8
-          - pr-8
+          - pb-28
+          - pt-28
+          - pl-28
+          - pr-28
         justifyContent: center
       subtitle:
         textAlign: center
