@@ -312,7 +312,7 @@ sections:
             label: Zu den Pauschalreisen
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: ''
             iconPosition: right
             style: primary
