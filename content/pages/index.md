@@ -281,7 +281,7 @@ sections:
         image:
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_1200,h_800/v1721810743/hotel-7885138_1280_hhttcd.jpg
-          altText: Placeholder image
+          altText: Pauschalreisen
           styles:
             self:
               borderRadius: x-large
