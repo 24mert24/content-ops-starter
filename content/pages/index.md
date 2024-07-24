@@ -276,7 +276,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Flüge
+            label: Hier klicken
             altText: ''
             url: /
             showIcon: true
