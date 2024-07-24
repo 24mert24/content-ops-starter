@@ -35,10 +35,10 @@ sections:
           - pb-7
           - pr-7
         margin:
-          - mt-16
-          - ml-16
-          - mb-16
-          - mr-16
+          - mt-32
+          - ml-32
+          - mb-32
+          - mr-32
   - type: DividerSection
     title: Divider
     elementId: ''
