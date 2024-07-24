@@ -30,8 +30,10 @@
             "borderRadius": "none",
             "justifyContent": "center",
             "margin": [
-                "mr-0",
-                "ml-36"
+                "mr-36",
+                "ml-36",
+                "mt-36",
+                "mb-36"
             ]
         }
     },
