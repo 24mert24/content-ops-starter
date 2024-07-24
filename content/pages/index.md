@@ -329,7 +329,7 @@ sections:
           type: ImageBlock
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/volkswagen-multivan-t6-1116982_1280_x9mrf7.jpg
-          altText: Placeholder text
+          altText: Flughafentransfer
           styles:
             self:
               borderRadius: x-large
