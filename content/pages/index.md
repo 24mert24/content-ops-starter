@@ -256,8 +256,9 @@ sections:
           ```
 
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_fill,w_1200,h_800/v1721810743/airbus-8607152_1280_m3temu.jpg
+          altText: Flüge
           styles:
             self:
               borderRadius: x-large
@@ -273,13 +274,24 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Zu den Flügen
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Pauschalreisen
         tagline: ''
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_1200,h_800/v1721810743/hotel-7885138_1280_hhttcd.jpg
+          altText: Pauschalreisen
           styles:
             self:
               borderRadius: x-large
@@ -295,13 +307,24 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Zu den Pauschalreisen
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Mietwagen
         tagline: ''
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          url: >-
+            http://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/car-604019_1280_rvx9nf.jpg
+          altText: Mietwagen
           styles:
             self:
               borderRadius: x-large
@@ -317,6 +340,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Zu den Mietwägen
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - type: FeaturedItem
         title: Flughafentransfer
         tagline: ''
@@ -324,12 +357,22 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/volkswagen-multivan-t6-1116982_1280_x9mrf7.jpg
+          altText: Flughafentransfer
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Zu den Flugtransfers
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -347,12 +390,22 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_fill,w_1200,h_800/v1721810743/inner-space-1026452_1280_qed9jp.jpg
+          altText: Hotels
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Zu den Hotels
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -370,12 +423,22 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_fill,w_1200,h_800/v1721810743/fantasy-3502188_1280_zxgmbn.jpg
           altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Hier klicken
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
