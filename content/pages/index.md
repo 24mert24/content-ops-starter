@@ -431,7 +431,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Hier klicken
             altText: ''
             url: /
             showIcon: false
