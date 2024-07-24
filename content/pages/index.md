@@ -304,7 +304,7 @@ sections:
         image:
           url: >-
             http://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/car-604019_1280_rvx9nf.jpg
-          altText: Placeholder image
+          altText: Mietwagen
           styles:
             self:
               borderRadius: x-large
