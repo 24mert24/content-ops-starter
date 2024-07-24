@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 500
+          fontWeight: 400
     subtitle: ''
     text: >
       Willkommen bei Ihrem vertrauenswürdigen Reisepartner! Wir bieten Ihnen
