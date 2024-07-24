@@ -82,5 +82,21 @@
     ],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-8",
+                "pl-8",
+                "pb-0",
+                "pr-8"
+            ],
+            "margin": [
+                "mt-0",
+                "ml-0",
+                "mb-0",
+                "mr-0"
+            ]
+        }
+    }
 }

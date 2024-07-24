@@ -34,6 +34,11 @@ sections:
           - pl-7
           - pb-7
           - pr-7
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -359,7 +364,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Vieles Weitere
         tagline: ''
         subtitle: ''
         text: ''
@@ -471,10 +476,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
+          - pt-5
+          - pl-5
+          - pb-5
+          - pr-5
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
