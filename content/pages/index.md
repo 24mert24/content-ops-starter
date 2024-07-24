@@ -217,7 +217,7 @@ sections:
     people:
       - content/data/person1.json
     actions: []
-    variant: mixed-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
