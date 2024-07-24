@@ -376,7 +376,7 @@ sections:
         image:
           type: ImageBlock
           url: >-
-            http://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/fantasy-3502188_1280_zxgmbn.jpg
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_fill,w_1200,h_800/v1721810743/fantasy-3502188_1280_zxgmbn.jpg
           altText: Placeholder text
           styles:
             self:
