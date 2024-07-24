@@ -32,7 +32,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: Unser Angebot
+    subtitle: Unser Versprechen
     items:
       - type: FeaturedItem
         title: Günstige Preise
@@ -188,19 +188,21 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: List of features here
+      text: Unser Angebot
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Flüge
+        tagline: ''
+        subtitle: ''
+        text: |+
+          ```
+          ```
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -219,11 +221,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Pauschalreisen
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -242,12 +243,10 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - title: Mietwagen
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -266,6 +265,77 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+      - type: FeaturedItem
+        title: Flughafentransfer
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Hotels
+        tagline: ''
+        subtitle: ''
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
@@ -279,49 +349,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
       text: Generic Section With A Form
       color: text-dark
