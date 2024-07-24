@@ -289,7 +289,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Hotels
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
