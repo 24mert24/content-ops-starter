@@ -313,7 +313,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: ''
+            icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
