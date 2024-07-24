@@ -188,7 +188,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: List of features here
+      text: Unser Angebot
       color: text-primary
       styles:
         self:
