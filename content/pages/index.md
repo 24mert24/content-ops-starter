@@ -417,7 +417,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Hier klicken
+        title: Vieles Weitere
         tagline: ''
         subtitle: ''
         text: ''
