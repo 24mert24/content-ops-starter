@@ -309,7 +309,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Zu den Pauschalreisen
             altText: ''
             url: /
             showIcon: false
