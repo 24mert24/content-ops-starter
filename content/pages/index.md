@@ -7,6 +7,9 @@ sections:
       text: Von der Planung bis zur Rückkehr
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >
       Willkommen bei Ihrem vertrauenswürdigen Reisepartner! Wir bieten Ihnen
@@ -16,7 +19,7 @@ sections:
     actions: []
     media:
       url: >-
-        http://res.cloudinary.com/drysaqg2v/image/upload/v1721736415/travel-4865665_1280_njuwhb.jpg
+        https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_550/v1721736415/travel-4865665_1280_njuwhb.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -292,8 +295,7 @@ sections:
         title: Hotels
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
@@ -314,10 +316,9 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        tagline: ''
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
