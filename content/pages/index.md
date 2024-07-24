@@ -353,7 +353,7 @@ sections:
           type: ImageBlock
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/c_fill,w_1200,h_800/v1721810743/inner-space-1026452_1280_qed9jp.jpg
-          altText: Placeholder text
+          altText: Hotels
           styles:
             self:
               borderRadius: x-large
