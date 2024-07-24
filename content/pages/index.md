@@ -280,7 +280,7 @@ sections:
         text: ''
         image:
           url: >-
-            https://res.cloudinary.com/drysaqg2v/image/upload/c_crop,w_1200,h_900/v1721810743/hotel-7885138_1280_hhttcd.jpg
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_crop,w_1200,h_800/v1721810743/airbus-8607152_1280_m3temu.jpg
           altText: Placeholder image
           styles:
             self:
