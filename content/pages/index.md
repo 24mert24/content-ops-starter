@@ -345,7 +345,7 @@ sections:
             label: Zu den Mietwägen
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
