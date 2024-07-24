@@ -392,9 +392,9 @@ sections:
       self:
         padding:
           - pt-9
-          - pl-8
+          - pl-9
           - pb-9
-          - pr-8
+          - pr-9
         justifyContent: center
         margin:
           - mt-0
