@@ -30,10 +30,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-6
-          - pl-6
-          - pb-6
-          - pr-6
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
   - type: FeaturedItemsSection
     subtitle: Unser Versprechen
     items:
