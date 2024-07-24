@@ -342,7 +342,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Zu den Mietwägen
             altText: ''
             url: /
             showIcon: false
