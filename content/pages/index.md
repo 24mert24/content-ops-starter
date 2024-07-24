@@ -246,9 +246,7 @@ sections:
       - title: Mietwagen
         tagline: ''
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: ''
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
