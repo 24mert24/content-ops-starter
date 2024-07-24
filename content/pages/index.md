@@ -279,7 +279,8 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: >-
+            http://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/hotel-7885138_1280_hhttcd.jpg
           altText: Placeholder image
           styles:
             self:
