@@ -276,7 +276,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Flüge
             altText: ''
             url: /
             showIcon: false
