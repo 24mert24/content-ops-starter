@@ -256,7 +256,8 @@ sections:
           ```
 
         image:
-          url: /images/abstract-feature1.svg
+          url: >-
+            http://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/airbus-8607152_1280_m3temu.jpg
           altText: Placeholder Image
           styles:
             self:
