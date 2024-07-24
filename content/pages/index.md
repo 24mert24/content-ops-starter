@@ -280,7 +280,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: ''
+            icon: send
             iconPosition: right
             style: primary
             elementId: ''
