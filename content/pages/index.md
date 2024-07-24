@@ -365,7 +365,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Zu den Flugtransferen
             altText: ''
             url: /
             showIcon: true
