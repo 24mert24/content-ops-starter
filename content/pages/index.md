@@ -257,7 +257,7 @@ sections:
 
         image:
           url: >-
-            https://res.cloudinary.com/drysaqg2v/image/upload/c_crop,w_1200,h_800/v1721810743/airbus-8607152_1280_m3temu.jpg
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_1200,h_800/v1721810743/airbus-8607152_1280_m3temu.jpg
           altText: Placeholder Image
           styles:
             self:
