@@ -280,7 +280,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: ''
+            icon: chevronDown
             iconPosition: right
             style: primary
             elementId: ''
