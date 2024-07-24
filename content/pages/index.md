@@ -279,7 +279,7 @@ sections:
             label: Zu den Flügen
             altText: ''
             url: /
-            showIcon: true
+            showIcon: false
             icon: ''
             iconPosition: right
             style: primary
