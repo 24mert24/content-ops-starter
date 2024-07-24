@@ -30,10 +30,21 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     subtitle: Unser Versprechen
     items:
@@ -133,13 +144,25 @@ sections:
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
-          - pl-16
-          - pr-16
+          - pb-12
+          - pt-12
+          - pl-12
+          - pr-12
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - subtitle: Bei uns finden Sie Angebote für alle Airlines
     images:
       - url: >-
@@ -187,9 +210,30 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - title:
       text: Unser Angebot
       color: text-primary
@@ -350,6 +394,17 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - title:
       text: Generic Section With A Form
       color: text-dark
@@ -409,6 +464,17 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
