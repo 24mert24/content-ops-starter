@@ -351,7 +351,8 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/v1721810743/inner-space-1026452_1280_qed9jp.jpg
           altText: Placeholder text
           styles:
             self:
