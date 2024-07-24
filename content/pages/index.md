@@ -7,6 +7,9 @@ sections:
       text: Von der Planung bis zur Rückkehr
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 400
     subtitle: ''
     text: >
       Willkommen bei Ihrem vertrauenswürdigen Reisepartner! Wir bieten Ihnen
