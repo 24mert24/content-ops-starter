@@ -32,7 +32,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: Unser Angebot
+    subtitle: Unser Versprechen
     items:
       - type: FeaturedItem
         title: Günstige Preise
