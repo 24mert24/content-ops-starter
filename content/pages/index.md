@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       url: >-
-        https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_500/v1721736415/travel-4865665_1280_njuwhb.jpg
+        https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_600/v1721736415/travel-4865665_1280_njuwhb.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
