@@ -82,7 +82,6 @@
     },
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/Social_Kit_DP copy 2.jpg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
