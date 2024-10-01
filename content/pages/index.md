@@ -508,7 +508,7 @@ sections:
           name: telefon
           label: Telefon
           hideLabel: true
-          placeholder: Your name
+          placeholder: Deine Telefonnummer
           isRequired: true
           width: full
         - name: message
