@@ -511,7 +511,7 @@ sections:
           placeholder: Deine Telefonnummer
           isRequired: true
           width: full
-        - name: message
+        - name: nachricht
           label: Message
           hideLabel: true
           placeholder: Your message
