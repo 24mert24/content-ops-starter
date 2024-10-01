@@ -506,7 +506,7 @@ sections:
           type: EmailFormControl
         - type: TextFormControl
           name: telefon
-          label: Name
+          label: Telefon
           hideLabel: true
           placeholder: Your name
           isRequired: true
