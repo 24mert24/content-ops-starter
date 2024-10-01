@@ -514,7 +514,7 @@ sections:
         - name: nachricht
           label: Nachricht
           hideLabel: true
-          placeholder: Your message
+          placeholder: Deine Nachricht
           width: full
           type: TextareaFormControl
       elementId: contact-form
