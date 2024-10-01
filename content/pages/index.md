@@ -512,7 +512,7 @@ sections:
           isRequired: true
           width: full
         - name: nachricht
-          label: Message
+          label: Nachricht
           hideLabel: true
           placeholder: Your message
           width: full
