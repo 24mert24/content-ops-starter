@@ -493,21 +493,28 @@ sections:
         - name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Dein Name
           isRequired: true
           width: full
           type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Deine Mailadresse
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
+        - type: TextFormControl
+          name: telefon
+          label: Telefon
           hideLabel: true
-          placeholder: Your message
+          placeholder: Deine Telefonnummer
+          isRequired: true
+          width: full
+        - name: nachricht
+          label: Nachricht
+          hideLabel: true
+          placeholder: Deine Nachricht
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -525,14 +532,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Senden
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Kontaktiere uns
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
