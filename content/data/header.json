@@ -69,7 +69,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "MC-Reisen24",
@@ -78,6 +78,16 @@
             "padding": [
                 "pt-0"
             ]
+        }
+    },
+    "logo": {
+        "type": "ImageBlock",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
         }
     }
 }
