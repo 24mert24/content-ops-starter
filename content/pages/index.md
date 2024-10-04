@@ -56,10 +56,10 @@ sections:
       - type: FeaturedItem
         title: Günstige Preise
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Traumreisen zu Top-Preisen – exklusiv, günstig und ohne Kompromisse
+          bei Qualität.
+
         actions: []
         elementId: null
         colors: bg-light-fg-dark
