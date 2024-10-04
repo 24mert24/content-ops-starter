@@ -5,25 +5,21 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Über MC-Reisen24 – Ihr Partner für unvergessliche Reisen
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    subtitle: Leidenschaft für Reisen und erstklassiger Service
+    text: >+
+      MC-Reisen24 ist Ihr zuverlässiger Partner für unvergessliche Reisen. Mit
+      jahrelanger Erfahrung in der Reisebranche bieten wir maßgeschneiderte
+      Angebote, die auf Ihre Wünsche abgestimmt sind. Unser engagiertes Team
+      steht Ihnen jederzeit zur Seite, um sicherzustellen, dass Ihr Urlaub
+      reibungslos verläuft. Wir legen großen Wert auf Qualität und
+      Kundenzufriedenheit, damit Sie jeden Moment Ihrer Reise genießen können.
+
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
@@ -50,18 +46,13 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Wer steckt dahinter?
       color: text-dark
       styles:
         self:
           textAlign: center
     people:
-      - content/data/person1.json
       - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
