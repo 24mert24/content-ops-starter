@@ -69,7 +69,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Play",
+                    "label": "Hotel",
                     "altText": "",
                     "url": "/",
                     "showIcon": true,
