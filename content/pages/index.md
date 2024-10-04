@@ -484,11 +484,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Nutzen Sie unser Kontaktformular, um uns schnell und unkompliziert Ihre
+      Anfragen oder Wünsche mitzuteilen. Wir freuen uns darauf, Ihnen zu helfen
+      und werden uns zeitnah mit einer Antwort bei Ihnen melden!
+
     media:
       fields:
         - name: name
