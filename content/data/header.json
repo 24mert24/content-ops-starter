@@ -38,7 +38,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Mietwägen",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
