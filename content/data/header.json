@@ -66,6 +66,17 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Play",
+                    "altText": "Play",
+                    "url": "/",
+                    "showIcon": true,
+                    "icon": "play",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
