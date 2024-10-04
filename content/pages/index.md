@@ -57,8 +57,8 @@ sections:
         title: Günstige Preise
         subtitle: ''
         text: >+
-          Traumreisen zu Top-Preisen – exklusiv, günstig und ohne Kompromisse
-          bei Qualität.
+          MC-Reisen24 bietet Traumreisen zu unschlagbaren Preisen. Reisen Sie
+          günstig, ohne auf Qualität zu verzichten.
 
         actions: []
         elementId: null
