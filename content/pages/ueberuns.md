@@ -60,7 +60,7 @@ sections:
         url: /
         showIcon: true
         icon: linkedin
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
     variant: three-col-grid
