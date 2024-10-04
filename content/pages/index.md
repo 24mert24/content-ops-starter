@@ -112,10 +112,9 @@ sections:
       - title: Transfer zum Flughafen
         subtitle: ''
         text: >+
-          Genießen Sie stressfreien Start in Ihren Urlaub mit unserem
-          zuverlässigen Flughafentransfer. Wir bringen Sie pünktlich und
-          komfortabel direkt zum Flughafen, damit Sie entspannt Ihre Reise
-          antreten können.
+          Unser zuverlässiger Flughafentransfer sorgt für einen stressfreien
+          Start in Ihren Urlaub. Pünktlich und komfortabel bringen wir Sie
+          direkt zum Flughafen.
 
         image:
           url: >-
