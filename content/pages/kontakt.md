@@ -29,7 +29,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: Send
+            label: WhatsApp
             altText: Send
             url: /
             showIcon: true
