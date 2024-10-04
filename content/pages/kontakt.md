@@ -67,7 +67,7 @@ sections:
             altText: telefon
             url: /
             showIcon: true
-            icon: play
+            icon: ''
             iconPosition: right
             style: secondary
             elementId: ''
