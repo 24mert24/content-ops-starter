@@ -72,7 +72,7 @@
                     "label": "Hotel",
                     "altText": "",
                     "url": "/",
-                    "showIcon": true,
+                    "showIcon": false,
                     "icon": "play",
                     "iconPosition": "right",
                     "style": "secondary",
