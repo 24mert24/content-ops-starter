@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Über MC-Reisen24 – Ihr Partner für unvergessliche Reisen
       color: text-dark
       styles:
         self:
