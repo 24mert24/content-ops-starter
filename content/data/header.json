@@ -18,32 +18,57 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Unsere Leistungen",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Flug",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "showIcon": true
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Pauschalreise",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "showIcon": true
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Mietwagen",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "showIcon": true
+                },
+                {
+                    "type": "Link",
+                    "label": "Flughafentransfer",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": true,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Hotel",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": true,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
