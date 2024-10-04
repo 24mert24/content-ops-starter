@@ -22,7 +22,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Flüge",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
