@@ -95,7 +95,16 @@ sections:
           url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
-        actions: []
+        actions:
+          - type: Link
+            label: Send email
+            altText: Play
+            url: /
+            showIcon: true
+            icon: mail
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
