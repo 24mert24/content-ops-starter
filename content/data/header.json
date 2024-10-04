@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Über uns",
-            "url": "",
+            "url": "/ueberuns",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
