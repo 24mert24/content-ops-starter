@@ -97,7 +97,7 @@ sections:
           elementId: ''
         actions:
           - type: Link
-            label: Send email
+            label: Sende eine Mail
             altText: Play
             url: /
             showIcon: true
