@@ -483,7 +483,7 @@ sections:
       text: Kontaktformular
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >+
       Nutzen Sie unser Kontaktformular, um uns schnell und unkompliziert Ihre
       Anfragen oder Wünsche mitzuteilen. Wir freuen uns darauf, Ihnen zu helfen
