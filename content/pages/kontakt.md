@@ -63,7 +63,7 @@ sections:
           elementId: ''
         actions:
           - type: Link
-            label: Play
+            label: Telefon
             altText: Play
             url: /
             showIcon: true
