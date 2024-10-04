@@ -47,17 +47,6 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Hotel",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "primary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "label": "Flughafentransfer",
                     "altText": "",
                     "url": "/",
