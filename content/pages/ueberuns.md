@@ -63,7 +63,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-        justifyContent: flex-end
+        justifyContent: center
       subtitle:
         textAlign: center
 slug: ueberuns
