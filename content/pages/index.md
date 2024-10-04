@@ -111,10 +111,12 @@ sections:
         type: FeaturedItem
       - title: Transfer zum Flughafen
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Genießen Sie stressfreien Start in Ihren Urlaub mit unserem
+          zuverlässigen Flughafentransfer. Wir bringen Sie pünktlich und
+          komfortabel direkt zum Flughafen, damit Sie entspannt Ihre Reise
+          antreten können.
+
         image:
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/plane-7950995_1280_rv0jzt.png
