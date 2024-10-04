@@ -64,7 +64,7 @@ sections:
         actions:
           - type: Link
             label: Telefon
-            altText: Play
+            altText: telefon
             url: /
             showIcon: true
             icon: play
