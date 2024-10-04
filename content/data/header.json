@@ -77,7 +77,7 @@
         {
             "type": "SubNav",
             "label": "Sprachen",
-            "altText": "Dropdown",
+            "altText": "Dropdown2",
             "links": [
                 {
                     "type": "Link",
