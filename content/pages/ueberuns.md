@@ -53,7 +53,16 @@ sections:
           textAlign: center
     people:
       - content/data/person2.json
-    actions: []
+    actions:
+      - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: /
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
