@@ -56,10 +56,10 @@ sections:
       - type: FeaturedItem
         title: Günstige Preise
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          MC-Reisen24 bietet Traumreisen zu unschlagbaren Preisen. Reisen Sie
+          günstig, ohne auf Qualität zu verzichten.
+
         actions: []
         elementId: null
         colors: bg-light-fg-dark
@@ -85,10 +85,10 @@ sections:
               borderRadius: x-large
       - title: Schneller Service
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Wir bieten Ihnen schnellen und zuverlässigen Service für all Ihre
+          Reisewünsche. Ob Buchung oder Beratung – wir sind sofort für Sie da.
+
         image:
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/right-6229287_1280_ico8jy.png
@@ -111,10 +111,11 @@ sections:
         type: FeaturedItem
       - title: Transfer zum Flughafen
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Unser zuverlässiger Flughafentransfer sorgt für einen stressfreien
+          Start in Ihren Urlaub. Pünktlich und komfortabel bringen wir Sie
+          direkt zum Flughafen.
+
         image:
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/plane-7950995_1280_rv0jzt.png
@@ -134,7 +135,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Jetzt starten
         altText: ''
         url: /
         showIcon: false
@@ -479,15 +480,15 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: Generic Section With A Form
+      text: Kontaktformular
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: >+
+      Nutzen Sie unser Kontaktformular, um uns schnell und unkompliziert Ihre
+      Anfragen oder Wünsche mitzuteilen. Wir freuen uns darauf, Ihnen zu helfen
+      und werden uns zeitnah mit einer Antwort bei Ihnen melden!
+
     media:
       fields:
         - name: name
