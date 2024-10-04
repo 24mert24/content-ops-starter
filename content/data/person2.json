@@ -30,7 +30,7 @@
             "borderStyle": "solid",
             "borderWidth": 0,
             "borderRadius": "none",
-            "justifyContent": "center"
+            "justifyContent": "flex-end"
         }
     },
     "bio": "Abschluss B.Sc. Wirtschaftsinformatik und gelernter Industriekaufmann mit Leidenschaft für Reisen\n"
