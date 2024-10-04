@@ -61,7 +61,16 @@ sections:
           url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
-        actions: []
+        actions:
+          - type: Link
+            label: Play
+            altText: Play
+            url: /
+            showIcon: true
+            icon: play
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
