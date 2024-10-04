@@ -66,27 +66,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: Wer steckt dahinter?
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 1
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: shadow
-    styles:
-      self:
-        justifyContent: center
 slug: ueberuns
 seo:
   type: Seo
