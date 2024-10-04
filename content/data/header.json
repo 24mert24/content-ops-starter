@@ -1,7 +1,7 @@
 {
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "Über uns",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -9,7 +9,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Kontakt",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -73,6 +73,47 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "SubNav",
+            "label": "Sprachen",
+            "altText": "Dropdown2",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Deutsch",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Türkisch",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Dropdown item",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
