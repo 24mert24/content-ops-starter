@@ -69,7 +69,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Wer steckt dahinter?
       color: text-dark
       styles:
         self:
