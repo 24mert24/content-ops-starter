@@ -86,9 +86,8 @@ sections:
       - title: Schneller Service
         subtitle: ''
         text: >+
-          Bei MC-Reisen24 legen wir großen Wert auf schnellen und zuverlässigen
-          Service. Ob Buchung, Beratung oder Kundenanfragen – wir sind für Sie
-          da und kümmern uns um Ihre Wünsche in kürzester Zeit.
+          Wir bieten Ihnen schnellen und zuverlässigen Service für all Ihre
+          Reisewünsche. Ob Buchung oder Beratung – wir sind sofort für Sie da.
 
         image:
           url: >-
