@@ -46,7 +46,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Wer steckt dahinter?
       color: text-dark
       styles:
         self:
