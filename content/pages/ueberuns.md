@@ -54,7 +54,7 @@ sections:
     people:
       - content/data/person2.json
     actions: []
-    variant: three-col-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
