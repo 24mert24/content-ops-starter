@@ -81,7 +81,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: two-col-grid
+    variant: big-list
     colors: bg-light-fg-dark
     hoverEffect: shadow
     styles:
