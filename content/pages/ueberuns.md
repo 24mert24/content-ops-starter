@@ -11,12 +11,14 @@ sections:
         self:
           textAlign: center
     subtitle: Leidenschaft für Reisen und erstklassiger Service
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      MC-Reisen24 ist Ihr zuverlässiger Partner für unvergessliche Reisen. Mit
+      jahrelanger Erfahrung in der Reisebranche bieten wir maßgeschneiderte
+      Angebote, die auf Ihre Wünsche abgestimmt sind. Unser engagiertes Team
+      steht Ihnen jederzeit zur Seite, um sicherzustellen, dass Ihr Urlaub
+      reibungslos verläuft. Wir legen großen Wert auf Qualität und
+      Kundenzufriedenheit, damit Sie jeden Moment Ihrer Reise genießen können.
+
     actions:
       - type: Button
         label: See open positions
