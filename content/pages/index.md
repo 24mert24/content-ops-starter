@@ -85,10 +85,11 @@ sections:
               borderRadius: x-large
       - title: Schneller Service
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Bei MC-Reisen24 legen wir großen Wert auf schnellen und zuverlässigen
+          Service. Ob Buchung, Beratung oder Kundenanfragen – wir sind für Sie
+          da und kümmern uns um Ihre Wünsche in kürzester Zeit.
+
         image:
           url: >-
             https://res.cloudinary.com/drysaqg2v/image/upload/v1721739337/right-6229287_1280_ico8jy.png
