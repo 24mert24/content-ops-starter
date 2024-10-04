@@ -98,7 +98,7 @@ sections:
         actions:
           - type: Link
             label: Sende eine Mail
-            altText: Play
+            altText: mail
             url: /
             showIcon: true
             icon: mail
