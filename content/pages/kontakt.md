@@ -30,7 +30,7 @@ sections:
         actions:
           - type: Link
             label: WhatsApp
-            altText: Send
+            altText: whatsapp
             url: /
             showIcon: true
             icon: send
