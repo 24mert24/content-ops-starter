@@ -60,7 +60,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Datenschutzerklärung",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
