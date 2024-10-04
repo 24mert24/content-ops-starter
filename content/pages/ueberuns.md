@@ -81,7 +81,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: big-list
+    variant: small-list
     colors: bg-light-fg-dark
     hoverEffect: shadow
     styles:
