@@ -63,7 +63,7 @@ sections:
           elementId: ''
         actions:
           - type: Link
-            label: Telefon
+            label: Jetzt anrufen
             altText: telefon
             url: /
             showIcon: true
