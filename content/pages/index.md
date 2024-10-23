@@ -149,10 +149,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-40
-          - pt-40
-          - pl-40
-          - pr-40
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
