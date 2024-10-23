@@ -153,7 +153,7 @@ sections:
           - pt-0
           - pl-0
           - pr-0
-        justifyContent: flex-start
+        justifyContent: center
       subtitle:
         textAlign: center
         fontWeight: 700
