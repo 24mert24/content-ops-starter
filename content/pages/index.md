@@ -154,6 +154,11 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
+        margin:
+          - mt-16
+          - ml-16
+          - mb-16
+          - mr-16
       subtitle:
         textAlign: center
         fontWeight: 700
