@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: three-col-grid
+    variant: toggle-list
     colors: bg-dark-fg-light
     styles:
       self:
@@ -451,7 +451,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-    variant: three-col-grid
+    variant: toggle-list
     colors: bg-dark-fg-light
     styles:
       self:
