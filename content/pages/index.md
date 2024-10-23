@@ -451,7 +451,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-    variant: three-col-grid
+    variant: toggle-list
     colors: bg-dark-fg-light
     styles:
       self:
