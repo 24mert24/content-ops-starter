@@ -18,7 +18,7 @@ sections:
       bequemen Flughafentransfers.
     actions: []
     media:
-      url: /images/Social_Kit_DP copy 2.jpg
+      url: /images/Social_Kit_Facebook copy 2.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
