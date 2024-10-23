@@ -149,11 +149,16 @@ sections:
     styles:
       self:
         padding:
-          - pb-0
-          - pt-0
-          - pl-0
-          - pr-0
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
         fontWeight: 700
