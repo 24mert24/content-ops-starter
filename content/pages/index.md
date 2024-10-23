@@ -144,7 +144,7 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: toggle-list
+    variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
       self:
