@@ -267,13 +267,14 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             borderRadius: small
             flexDirection: row
             justifyContent: flex-start
+            textAlign: left
         type: FeaturedItem
         actions:
           - type: Button
@@ -450,15 +451,15 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-    variant: toggle-list
+    variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pt-9
-          - pl-9
-          - pb-9
-          - pr-9
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
         margin:
           - mt-0
