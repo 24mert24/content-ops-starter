@@ -274,6 +274,7 @@ sections:
             borderRadius: small
             flexDirection: row
             justifyContent: flex-start
+            textAlign: left
         type: FeaturedItem
         actions:
           - type: Button
