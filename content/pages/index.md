@@ -274,7 +274,7 @@ sections:
               - pr-8
             borderRadius: none
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-end
         type: FeaturedItem
         actions:
           - type: Button
