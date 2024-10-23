@@ -162,7 +162,8 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "borderWidth": 4
             }
         }
     }
