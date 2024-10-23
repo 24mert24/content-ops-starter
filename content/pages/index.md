@@ -18,8 +18,7 @@ sections:
       bequemen Flughafentransfers.
     actions: []
     media:
-      url: >-
-        https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_550/v1721736415/travel-4865665_1280_njuwhb.jpg
+      url: /images/Social_Kit_DP copy 2.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
