@@ -480,7 +480,7 @@ sections:
           - pb-3
           - pr-3
   - title:
-      text: Kontaktformular
+      text: Kontakt
       color: text-dark
       type: TitleBlock
     subtitle: ''
