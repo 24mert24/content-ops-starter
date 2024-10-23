@@ -144,15 +144,15 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: toggle-list
+    variant: small-list
     colors: bg-dark-fg-light
     styles:
       self:
         padding:
-          - pb-12
-          - pt-12
-          - pl-12
-          - pr-12
+          - pb-0
+          - pt-0
+          - pl-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
