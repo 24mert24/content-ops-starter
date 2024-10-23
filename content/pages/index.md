@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: small-list
+    variant: toggle-list
     colors: bg-dark-fg-light
     styles:
       self:
