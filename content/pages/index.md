@@ -144,7 +144,7 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: two-col-grid
+    variant: small-list
     colors: bg-dark-fg-light
     styles:
       self:
