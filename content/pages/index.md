@@ -145,7 +145,7 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: big-list
+    variant: small-list
     colors: bg-dark-fg-light
     styles:
       self:
