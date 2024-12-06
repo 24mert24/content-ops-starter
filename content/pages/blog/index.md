@@ -12,7 +12,7 @@ topSections:
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     variant: big-list
