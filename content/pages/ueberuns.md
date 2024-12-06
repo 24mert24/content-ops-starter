@@ -52,6 +52,7 @@ sections:
         self:
           textAlign: center
     people:
+      - content/data/person3.json
       - content/data/person2.json
     actions: []
     variant: three-col-grid
@@ -59,10 +60,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-8
+          - pl-8
+          - pb-8
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center

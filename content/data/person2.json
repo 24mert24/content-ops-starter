@@ -3,7 +3,6 @@
     "name": "Mert Canpolat",
     "role": "Inhaber und Geschäftsführer",
     "image": {
-        "url": "/images/IMG_6433.JPG",
         "altText": "Mert Canpolat",
         "styles": {
             "self": {
@@ -13,24 +12,31 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/IMG_6433.JPG"
     },
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
         "self": {
             "padding": [
-                "pt-6",
-                "pb-6",
-                "pl-6",
-                "pr-6"
+                "pt-0",
+                "pb-0",
+                "pl-0",
+                "pr-0"
             ],
             "textAlign": "center",
-            "borderColor": "border-neutral",
-            "borderStyle": "solid",
-            "borderWidth": 0,
-            "borderRadius": "none",
-            "justifyContent": "center"
+            "borderColor": "border-light",
+            "borderStyle": "dashed",
+            "borderWidth": 8,
+            "borderRadius": "large",
+            "justifyContent": "center",
+            "margin": [
+                "mt-0",
+                "ml-0",
+                "mb-0",
+                "mr-0"
+            ]
         }
     },
     "bio": "Abschluss B.Sc. Wirtschaftsinformatik und gelernter Industriekaufmann mit Leidenschaft für Reisen\n"

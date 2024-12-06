@@ -1,20 +1,7 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
-    "image": {
-        "url": "/images/avatar3.svg",
-        "altText": "Asher Schmitt",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "",
+    "role": "",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
@@ -33,5 +20,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "\n\n"
 }
