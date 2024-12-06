@@ -318,7 +318,7 @@ sections:
           - type: Button
             label: Zu den Pauschalreisen
             altText: ''
-            url: /
+            url: ''
             showIcon: true
             icon: arrowRight
             iconPosition: right
