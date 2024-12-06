@@ -12,8 +12,6 @@ sections:
       <iframe src="https\://www\.travialinks.de/link/A-29963-0/A/trafficsTBE"
       frameborder="0" width="600" height="400"></iframe>
 
-
-
     actions:
       - type: Button
         label: Get started
