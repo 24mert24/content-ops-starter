@@ -27,7 +27,7 @@
             ],
             "textAlign": "center",
             "borderColor": "border-light",
-            "borderStyle": "solid",
+            "borderStyle": "dashed",
             "borderWidth": 8,
             "borderRadius": "large",
             "justifyContent": "center",
