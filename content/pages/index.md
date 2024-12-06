@@ -278,7 +278,7 @@ sections:
               - pr-0
             borderRadius: small
             flexDirection: row
-            justifyContent: flex-start
+            justifyContent: center
             textAlign: center
         type: FeaturedItem
         actions:
