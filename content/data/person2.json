@@ -32,10 +32,10 @@
             "borderRadius": "large",
             "justifyContent": "center",
             "margin": [
-                "mt-9",
-                "ml-9",
-                "mb-9",
-                "mr-9"
+                "mt-0",
+                "ml-0",
+                "mb-0",
+                "mr-0"
             ]
         }
     },
