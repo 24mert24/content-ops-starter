@@ -253,39 +253,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Pauschalreisen
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          url: >-
-            https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_1200,h_800/v1721810743/hotel-7885138_1280_hhttcd.jpg
-          altText: Pauschalreisen
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-        actions:
-          - type: Button
-            label: Zu den Pauschalreisen
-            altText: ''
-            url: 'https://www.travialinks.de/link/A-29963-0/A/trafficsTBE'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
       - title: Flüge
         tagline: ''
         subtitle: ''
@@ -319,6 +286,39 @@ sections:
             label: Zu den Flügen
             altText: ''
             url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - title: Pauschalreisen
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          url: >-
+            https://res.cloudinary.com/drysaqg2v/image/upload/c_pad,w_1200,h_800/v1721810743/hotel-7885138_1280_hhttcd.jpg
+          altText: Pauschalreisen
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+        actions:
+          - type: Button
+            label: Zu den Pauschalreisen
+            altText: ''
+            url: 'https://www.travialinks.de/link/A-29963-0/A/trafficsTBE'
             showIcon: true
             icon: arrowRight
             iconPosition: right
