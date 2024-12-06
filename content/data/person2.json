@@ -12,7 +12,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/IMG_6433.JPG"
     },
     "colors": "bg-light-fg-dark",
     "elementId": null,
