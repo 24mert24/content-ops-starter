@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >+
-      <a href="https://www.travialinks.de/link/A-29963-0/A/trafficsTBE">TBE -
-      Travianet Booking Engine</a>
+      <iframe src="https://www.travialinks.de/link/A-29963-0/A/trafficsTBE"
+      frameborder="0" width="600" height="400"></iframe>
 
     actions:
       - type: Button
