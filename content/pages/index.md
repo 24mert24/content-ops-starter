@@ -276,7 +276,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
-            borderRadius: none
+            borderRadius: small
             flexDirection: row
             justifyContent: flex-start
             textAlign: center
