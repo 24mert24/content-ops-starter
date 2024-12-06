@@ -318,7 +318,7 @@ sections:
           - type: Button
             label: Zu den Pauschalreisen
             altText: ''
-            url: /
+            url: 'https://www.travialinks.de/link/A-29963-0/A/trafficsTBE'
             showIcon: true
             icon: arrowRight
             iconPosition: right

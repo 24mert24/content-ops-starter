@@ -154,16 +154,5 @@
                 "mr-0"
             ]
         }
-    },
-    "logo": {
-        "type": "ImageBlock",
-        "altText": "Image alt text placeholder",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "borderWidth": 4
-            }
-        }
     }
 }
