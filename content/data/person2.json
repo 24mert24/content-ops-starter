@@ -30,7 +30,7 @@
             "borderStyle": "solid",
             "borderWidth": 8,
             "borderRadius": "large",
-            "justifyContent": "flex-end",
+            "justifyContent": "center",
             "margin": [
                 "mt-0",
                 "ml-0",
