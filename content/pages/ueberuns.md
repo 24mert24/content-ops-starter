@@ -63,7 +63,7 @@ sections:
           - pl-8
           - pb-8
           - pr-8
-        justifyContent: center
+        justifyContent: flex-end
       subtitle:
         textAlign: center
 slug: ueberuns
