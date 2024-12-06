@@ -465,6 +465,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             textAlign: center
+            justifyContent: center
     variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
