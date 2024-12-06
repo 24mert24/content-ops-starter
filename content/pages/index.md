@@ -276,7 +276,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            borderRadius: small
+            borderRadius: none
             flexDirection: col
             justifyContent: center
             textAlign: center
