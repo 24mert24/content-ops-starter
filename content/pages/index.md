@@ -333,16 +333,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-        actions:
-          - type: Button
-            label: Zu den Mietwägen
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
       - type: FeaturedItem
         title: Flughafentransfer
         tagline: ''
