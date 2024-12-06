@@ -3,7 +3,7 @@ type: PageLayout
 title: Pauschalreisen
 sections: []
 slug: pauschalreisen
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: Landing Page
