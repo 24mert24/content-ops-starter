@@ -277,7 +277,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: small
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
             textAlign: center
         type: FeaturedItem
