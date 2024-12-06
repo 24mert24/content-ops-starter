@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      <a href="https\://www\.travialinks.de/link/A-29963-0/A/trafficsTBE">TBE -
+      Travianet Booking Engine</a>
     actions:
       - type: Button
         label: Get started
