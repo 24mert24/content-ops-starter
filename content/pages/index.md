@@ -316,16 +316,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-        actions:
-          - type: Button
-            label: Zu den Pauschalreisen
-            altText: ''
-            url: 'https://www.travialinks.de/link/A-29963-0/A/trafficsTBE'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
       - title: Mietwagen
         tagline: ''
         subtitle: ''
