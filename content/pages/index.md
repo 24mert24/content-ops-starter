@@ -272,14 +272,14 @@ sections:
         styles:
           self:
             padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            borderRadius: small
-            flexDirection: row
-            justifyContent: flex-start
-            textAlign: left
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: large
+            flexDirection: col
+            justifyContent: center
+            textAlign: center
         type: FeaturedItem
         actions:
           - type: Button
@@ -313,6 +313,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
+            justifyContent: center
         type: FeaturedItem
         actions:
           - type: Button
@@ -346,6 +348,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
+            justifyContent: center
         type: FeaturedItem
         actions:
           - type: Button
@@ -390,6 +394,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
+            justifyContent: center
       - type: FeaturedItem
         title: Hotels
         tagline: ''
@@ -423,6 +429,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
+            justifyContent: center
       - type: FeaturedItem
         title: Vieles Weitere
         tagline: ''
@@ -456,6 +464,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
+            justifyContent: center
     variant: three-col-grid
     colors: bg-dark-fg-light
     styles:
