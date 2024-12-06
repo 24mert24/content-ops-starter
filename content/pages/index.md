@@ -281,16 +281,7 @@ sections:
             justifyContent: center
             textAlign: center
         type: FeaturedItem
-        actions:
-          - type: Button
-            label: Zu den Flügen
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
       - title: Pauschalreisen
         tagline: ''
         subtitle: ''
