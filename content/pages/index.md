@@ -279,7 +279,7 @@ sections:
             borderRadius: small
             flexDirection: row
             justifyContent: center
-            textAlign: center
+            textAlign: right
         type: FeaturedItem
         actions:
           - type: Button
