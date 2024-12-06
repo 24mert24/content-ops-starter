@@ -11,3 +11,9 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
+
+module.exports = {
+    env: {
+        TRAVIANET_LINK: "https://www.travialinks.de/link/A-29963-0/A/trafficsTBE",
+    },
+};
