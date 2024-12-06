@@ -347,6 +347,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
         type: FeaturedItem
         actions:
           - type: Button
