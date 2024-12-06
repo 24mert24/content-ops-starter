@@ -8,9 +8,10 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >
-      <a href="https\://www\.travialinks.de/link/A-29963-0/A/trafficsTBE">TBE -
+    text: >+
+      <a href="https://www.travialinks.de/link/A-29963-0/A/trafficsTBE">TBE -
       Travianet Booking Engine</a>
+
     actions:
       - type: Button
         label: Get started
