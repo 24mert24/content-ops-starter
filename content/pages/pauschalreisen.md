@@ -10,7 +10,7 @@ sections:
     subtitle: Be in good company
     text: >+
       <iframe src="https://www.travialinks.de/link/A-29963-0/A/trafficsTBE"
-      frameborder="0" width="600" height="400"></iframe>
+      frameborder="0" width="800" height="400"></iframe>
 
     actions:
       - type: Button
