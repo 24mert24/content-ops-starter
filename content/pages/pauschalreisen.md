@@ -39,6 +39,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+      text:
+        textAlign: center
 slug: pauschalreisen
 isDraft: false
 seo:
