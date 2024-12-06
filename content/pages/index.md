@@ -281,16 +281,7 @@ sections:
             justifyContent: center
             textAlign: center
         type: FeaturedItem
-        actions:
-          - type: Button
-            label: Zu den Flügen
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
       - title: Pauschalreisen
         tagline: ''
         subtitle: ''
@@ -316,16 +307,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-        actions:
-          - type: Button
-            label: Zu den Pauschalreisen
-            altText: ''
-            url: 'https://www.travialinks.de/link/A-29963-0/A/trafficsTBE'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
       - title: Mietwagen
         tagline: ''
         subtitle: ''
@@ -351,16 +333,7 @@ sections:
             textAlign: center
             justifyContent: center
         type: FeaturedItem
-        actions:
-          - type: Button
-            label: Zu den Mietwägen
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
       - type: FeaturedItem
         title: Flughafentransfer
         tagline: ''
@@ -374,16 +347,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: Zu den Flugtransfers
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
@@ -409,16 +373,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: Zu den Hotels
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
@@ -444,16 +399,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: Hier klicken
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
