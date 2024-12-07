@@ -63,7 +63,7 @@ sections:
           isRequired: true
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Senden
         icon: arrowRight
         iconPosition: right
         style: primary
