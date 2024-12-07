@@ -514,7 +514,8 @@ sections:
           label: Reiseart
           hideLabel: true
           defaultValue: Reiseart
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
         - name: nachricht
