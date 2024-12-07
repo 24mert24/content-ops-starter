@@ -10,8 +10,8 @@
         },
         {
             "label": "Kontakt",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "kontakt",
+            "url": "/kontakt",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
