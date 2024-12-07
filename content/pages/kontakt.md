@@ -150,10 +150,14 @@ sections:
       - type: FeaturedItem
         title: Instagram
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          <a href="https\://www\.instagram.com/mc\_reisen24.de/"
+          target="\_blank">
+              Besuche uns auf Instagram
+          </a>
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
