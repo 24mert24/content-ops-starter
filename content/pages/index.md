@@ -73,6 +73,11 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            margin:
+              - mt-5
+              - ml-5
+              - mb-5
+              - mr-5
         image:
           type: ImageBlock
           altText: Günstige Preise
