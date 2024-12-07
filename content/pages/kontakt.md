@@ -82,7 +82,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: ''
         subtitle: Sales
         text: ''
         actions: []
