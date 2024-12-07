@@ -137,24 +137,28 @@ sections:
               - pr-8
             textAlign: left
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/WhatsApp.svg.png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
         title: Instagram
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        subtitle: ''
+        text: >+
+          <a href="https://www.instagram.com/mc_reisen24.de/" target="_blank"
+          style="text-decoration:none;">
+              <button style="background: linear-gradient(45deg, #F58529, #DD2A7B, #8134AF, #515BD4); color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px; cursor:pointer;">
+                  Folge uns auf Instagram
+              </button>
+          </a>
+
+        actions:
+          - type: Link
+            altText: ''
+            url: 'https://www.instagram.com/mc_reisen24.de/'
+            showIcon: true
+            icon: instagram
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
