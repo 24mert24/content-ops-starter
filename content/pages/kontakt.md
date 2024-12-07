@@ -45,7 +45,7 @@ sections:
           defaultValue: Reiseart auswählen
           options:
             - Flug
-            - ''
+            - Pauschalreise
           isRequired: false
           width: full
         - type: TextareaFormControl
