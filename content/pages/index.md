@@ -588,6 +588,7 @@ seo:
       property: 'og:image'
       content: 'https://mc-reisen24.de/images/Social_Kit_Facebook%20copy%202.jpg'
     - type: MetaTag
+      property: 'og:url'
 type: PageLayout
 isDraft: false
 ---
