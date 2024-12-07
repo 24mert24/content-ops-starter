@@ -43,7 +43,8 @@ sections:
           label: reiseart
           hideLabel: true
           defaultValue: Reiseart auswählen
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
