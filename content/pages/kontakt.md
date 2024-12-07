@@ -116,7 +116,17 @@ sections:
               <i class="fa fa-whatsapp"></i> WhatsApp Nachricht senden
           </a>
 
-        actions: []
+        actions:
+          - type: Link
+            label: Send
+            altText: Send
+            url: >-
+              https://wa.me/4915112345678?text=Hallo,%20ich%20habe%20eine%20Frage%20zu%20Ihren%20Reiseangeboten
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
