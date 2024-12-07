@@ -75,7 +75,8 @@ seo:
     Erfahren Sie mehr über MC-Reisen24, Ihr Reiseexperte für günstige Flüge,
     Hotels, Mietwagen und Traumurlaube. Entdecken Sie unsere Mission und Vision
     für Ihren perfekten Urlaub!
-  metaTags: []
+  metaTags:
+    - type: MetaTag
   addTitleSuffix: true
   socialImage: /images/Social_Kit_DP copy 2.jpg
 ---
