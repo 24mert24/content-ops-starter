@@ -511,7 +511,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: Reiseart
-          label: Company size
+          label: Reiseart
           hideLabel: false
           defaultValue: Please choose...
           options: []
