@@ -60,6 +60,7 @@ sections:
           hideLabel: true
           placeholder: Deine Nachricht
           width: full
+          isRequired: true
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
