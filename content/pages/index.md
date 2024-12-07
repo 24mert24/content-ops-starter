@@ -518,7 +518,7 @@ sections:
             - Flug
             - Pauschalreise
             - Hotel
-            - ''
+            - Mietwagen
           isRequired: false
           width: full
         - name: nachricht
