@@ -298,10 +298,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-7
-              - pl-7
-              - pb-7
-              - pr-7
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
             borderRadius: x-large
             flexDirection: col
             textAlign: center
