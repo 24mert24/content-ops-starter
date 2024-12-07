@@ -35,7 +35,7 @@ sections:
           name: telefon
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Deine Telefonnummer
           isRequired: true
           width: full
         - type: TextareaFormControl
