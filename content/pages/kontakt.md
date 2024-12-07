@@ -14,8 +14,8 @@ sections:
       und werden uns zeitnah mit einer Antwort bei Ihnen melden!
 
 
-      Schreibe deine Reisedaten und die Personenanzahl in das
-      Nachrichtenfenster.
+      Schreibe deine Reisedaten und die Personenanzahl in das Nachrichtenfenster
+      ->
     actions: []
     media:
       type: FormBlock
