@@ -595,6 +595,7 @@ seo:
       content: website
     - type: MetaTag
       property: 'twitter:card'
+      content: summary_large_image
 type: PageLayout
 isDraft: false
 ---
