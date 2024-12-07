@@ -47,6 +47,7 @@ sections:
             - Flug
             - Pauschalreise
             - ''
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
