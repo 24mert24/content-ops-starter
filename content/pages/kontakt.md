@@ -8,11 +8,14 @@ sections:
       text: Kontakt
       color: text-dark
     subtitle: Section with a form subtitle
-    text: >+
+    text: >
       Nutzen Sie unser Kontaktformular, um uns schnell und unkompliziert Ihre
       Anfragen oder Wünsche mitzuteilen. Wir freuen uns darauf, Ihnen zu helfen
       und werden uns zeitnah mit einer Antwort bei Ihnen melden!
 
+
+      Schreibe deine Reisedaten und die Personenanzahl in das
+      Nachrichtenfenster.
     actions: []
     media:
       type: FormBlock
