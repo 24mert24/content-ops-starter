@@ -512,7 +512,7 @@ sections:
         - type: SelectFormControl
           name: Reiseart
           label: Reiseart
-          hideLabel: false
+          hideLabel: true
           defaultValue: Please choose...
           options: []
           isRequired: false
