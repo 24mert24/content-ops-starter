@@ -518,6 +518,7 @@ sections:
             - Flug
             - Pauschalreise
             - Hotel
+            - ''
           isRequired: false
           width: full
         - name: nachricht
