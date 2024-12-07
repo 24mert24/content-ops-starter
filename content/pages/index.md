@@ -592,6 +592,7 @@ seo:
       content: 'https://www.mc-reisen24.de'
     - type: MetaTag
       property: 'og:type'
+      content: website
 type: PageLayout
 isDraft: false
 ---
