@@ -38,6 +38,14 @@ sections:
           placeholder: Deine Telefonnummer
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: reiseart
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
         - type: TextareaFormControl
           name: message
           label: Message
