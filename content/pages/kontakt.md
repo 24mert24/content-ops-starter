@@ -48,7 +48,7 @@ sections:
             - Pauschalreise
             - ''
             - Mietwagen
-            - ''
+            - Andere
           isRequired: false
           width: full
         - type: TextareaFormControl
