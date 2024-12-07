@@ -149,7 +149,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: Instagram
-        subtitle: Marketing
+        subtitle: ''
         text: >+
           <a href="https\://www\.instagram.com/mc\_reisen24.de/"
           target="\_blank">
