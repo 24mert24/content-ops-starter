@@ -306,6 +306,11 @@ sections:
             flexDirection: col
             textAlign: center
             justifyContent: center
+            margin:
+              - mt-8
+              - ml-8
+              - mb-8
+              - mr-8
         type: FeaturedItem
         actions: []
       - title: Mietwagen
