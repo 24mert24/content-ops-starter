@@ -590,6 +590,7 @@ seo:
     - type: MetaTag
       property: 'og:url'
       content: 'https://www.mc-reisen24.de'
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
