@@ -606,6 +606,7 @@ seo:
         – einfach, schnell und günstig bei MC-Reisen24!
     - type: MetaTag
       property: 'twitter:image'
+      content: 'https://mc-reisen24.de/images/Social_Kit_Facebook%20copy%202.jpg'
 type: PageLayout
 isDraft: false
 ---
