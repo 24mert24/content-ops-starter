@@ -509,6 +509,19 @@ sections:
           placeholder: Deine Telefonnummer
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Reiseart
+          label: Reiseart
+          hideLabel: true
+          defaultValue: Reiseart
+          options:
+            - Flug
+            - Pauschalreise
+            - Hotel
+            - Mietwagen
+            - Andere
+          isRequired: false
+          width: full
         - name: nachricht
           label: Nachricht
           hideLabel: true
@@ -554,10 +567,46 @@ sections:
           - pb-5
           - pr-5
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: MC-Reisen24 – Günstige Reisen und Traumurlaub online buchen
+  metaDescription: >-
+    MC-Reisen24 – Buchen Sie günstige Reisen, Flüge, Hotels und Mietwagen.
+    Entdecken Sie Pauschalangebote und Traumurlaube online – einfach, schnell
+    und bequem!
   socialImage: /images/svg.svg
   type: Seo
+  addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
+      property: 'og:title'
+      content: 'MC-Reisen24 – Günstige Reisen, Flüge, Hotels & Mietwagen buchen'
+    - type: MetaTag
+      property: 'og:description'
+      content: >-
+        Entdecken Sie Pauschalangebote und Traumurlaube online bei MC-Reisen24.
+        Buchen Sie Flüge, Hotels und Mietwagen einfach und bequem!
+    - type: MetaTag
+      property: 'og:image'
+      content: 'https://mc-reisen24.de/images/Social_Kit_Facebook%20copy%202.jpg'
+    - type: MetaTag
+      property: 'og:url'
+      content: 'https://www.mc-reisen24.de'
+    - type: MetaTag
+      property: 'og:type'
+      content: website
+    - type: MetaTag
+      property: 'twitter:card'
+      content: summary_large_image
+    - type: MetaTag
+      property: 'twitter:title'
+      content: 'MC-Reisen24 – Günstige Reisen, Flüge, Hotels & Mietwagen buchen'
+    - type: MetaTag
+      property: 'twitter:description'
+      content: >-
+        Buchen Sie Pauschalreisen, Last Minute Angebote und Traumurlaube online
+        – einfach, schnell und günstig bei MC-Reisen24!
+    - type: MetaTag
+      property: 'twitter:image'
+      content: 'https://mc-reisen24.de/images/Social_Kit_Facebook%20copy%202.jpg'
 type: PageLayout
 isDraft: false
 ---
