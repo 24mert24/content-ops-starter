@@ -516,7 +516,7 @@ sections:
           defaultValue: Reiseart
           options:
             - Flug
-            - ''
+            - Pauschalreise
           isRequired: false
           width: full
         - name: nachricht
