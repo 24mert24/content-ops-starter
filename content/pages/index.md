@@ -342,6 +342,11 @@ sections:
             flexDirection: col
             textAlign: center
             justifyContent: center
+            margin:
+              - mt-2
+              - ml-2
+              - mb-2
+              - mr-2
         type: FeaturedItem
         actions: []
       - type: FeaturedItem
