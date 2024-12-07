@@ -139,14 +139,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/WhatsApp.svg.png
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
         title: Instagram
         subtitle: ''
