@@ -586,6 +586,7 @@ seo:
         Buchen Sie Flüge, Hotels und Mietwagen einfach und bequem!
     - type: MetaTag
       property: 'og:image'
+      content: 'https://mc-reisen24.de/images/Social_Kit_Facebook%20copy%202.jpg'
 type: PageLayout
 isDraft: false
 ---
