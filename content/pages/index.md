@@ -519,7 +519,7 @@ sections:
             - Pauschalreise
             - Hotel
             - Mietwagen
-            - ''
+            - Andere
           isRequired: false
           width: full
         - name: nachricht
