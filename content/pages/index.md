@@ -479,7 +479,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Jetzt in Kontakt treten!
       color: text-dark
       styles:
         self:
