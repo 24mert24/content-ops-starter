@@ -509,12 +509,6 @@ sections:
           placeholder: Deine Telefonnummer
           isRequired: true
           width: full
-        - name: nachricht
-          label: Nachricht
-          hideLabel: true
-          placeholder: Deine Nachricht
-          width: full
-          type: TextareaFormControl
         - type: SelectFormControl
           name: Reiseart
           label: Company size
@@ -523,6 +517,12 @@ sections:
           options: []
           isRequired: false
           width: full
+        - name: nachricht
+          label: Nachricht
+          hideLabel: true
+          placeholder: Deine Nachricht
+          width: full
+          type: TextareaFormControl
       elementId: contact-form
       styles:
         self:
