@@ -42,7 +42,7 @@ sections:
           name: reiseart
           label: reiseart
           hideLabel: true
-          defaultValue: Reiseart...
+          defaultValue: Reiseart ...
           options: []
           isRequired: false
           width: full
