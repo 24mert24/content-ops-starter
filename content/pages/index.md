@@ -515,7 +515,7 @@ sections:
           hideLabel: true
           defaultValue: Reiseart
           options:
-            - ''
+            - Flug
           isRequired: false
           width: full
         - name: nachricht
