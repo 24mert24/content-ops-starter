@@ -292,7 +292,7 @@ sections:
               - mr-2
         type: FeaturedItem
         actions: []
-      - title: Pauschal-reisen
+      - title: Pauschalreisen
         tagline: ''
         subtitle: ''
         text: ''
