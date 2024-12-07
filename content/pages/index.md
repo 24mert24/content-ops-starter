@@ -528,6 +528,7 @@ sections:
           placeholder: Deine Nachricht
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
