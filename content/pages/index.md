@@ -601,6 +601,9 @@ seo:
       content: 'MC-Reisen24 – Günstige Reisen, Flüge, Hotels & Mietwagen buchen'
     - type: MetaTag
       property: 'twitter:description'
+      content: >-
+        Buchen Sie Pauschalreisen, Last Minute Angebote und Traumurlaube online
+        – einfach, schnell und günstig bei MC-Reisen24!
 type: PageLayout
 isDraft: false
 ---
