@@ -575,6 +575,8 @@ seo:
   socialImage: /images/svg.svg
   type: Seo
   addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
