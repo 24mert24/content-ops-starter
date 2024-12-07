@@ -77,7 +77,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: Kontaktiere uns
       color: text-primary
     colors: bg-light-fg-dark
   - type: DividerSection
