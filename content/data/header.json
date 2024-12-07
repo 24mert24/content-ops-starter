@@ -10,7 +10,7 @@
         },
         {
             "label": "Kontakt",
-            "altText": "Careers page",
+            "altText": "kontakt",
             "url": "/contact-form",
             "icon": "arrowRight",
             "iconPosition": "right",
