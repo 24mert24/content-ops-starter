@@ -90,6 +90,7 @@ seo:
       content: 'https://www.mc-reisen24.de/ueberuns'
     - type: MetaTag
       property: 'og:type'
+      content: website
   addTitleSuffix: true
   socialImage: /images/Social_Kit_DP copy 2.jpg
 ---
