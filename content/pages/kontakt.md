@@ -118,7 +118,7 @@ sections:
 
         actions:
           - type: Link
-            label: whatsapp
+            label: Hier klicken!
             altText: ''
             url: >-
               https://wa.me/4915112345678?text=Hallo,%20ich%20habe%20eine%20Frage%20zu%20Ihren%20Reiseangeboten
