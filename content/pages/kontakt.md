@@ -107,12 +107,26 @@ sections:
     items:
       - type: FeaturedItem
         title: WhatsApp
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+        subtitle: ''
+        text: >+
+          <a
+          href="https\://wa.me/4915112345678?text=Hallo,%20ich%20habe%20eine%20Frage%20zu%20Ihren%20Reiseangeboten"
+          target="\_blank" style="text-decoration:none; color:#25D366;
+          font-size:18px;">
+              <i class="fa fa-whatsapp"></i> WhatsApp Nachricht senden
+          </a>
+
+        actions:
+          - type: Link
+            label: Hier klicken
+            altText: whatsapp
+            url: >-
+              https://wa.me/4915112345678?text=Hallo,%20ich%20habe%20eine%20Frage%20zu%20Ihren%20Reiseangeboten
+            showIcon: true
+            icon: send
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
