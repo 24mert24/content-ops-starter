@@ -80,6 +80,7 @@ seo:
       property: 'og:title'
       content: Über MC-Reisen24 – Ihr Experte für günstige Reisen und Traumurlaube
     - type: MetaTag
+      property: 'og:description'
   addTitleSuffix: true
   socialImage: /images/Social_Kit_DP copy 2.jpg
 ---
