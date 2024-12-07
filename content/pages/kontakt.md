@@ -144,13 +144,11 @@ sections:
         subtitle: ''
         text: >+
           <a href="https://www.instagram.com/mc_reisen24.de/" target="_blank"
-          style="text-decoration:none;"><button style="background-color:#E4405F;
-          color:white; border:none; padding:10px 15px; border-radius:5px;
-          font-size:16px; cursor:pointer;">
+          style="text-decoration:none;">
+              <button style="background: linear-gradient(45deg, #F58529, #DD2A7B, #8134AF, #515BD4); color:white; border:none; padding:10px 15px; border-radius:5px; font-size:16px; cursor:pointer;">
                   Folge uns auf Instagram
-              </button></a>
-
-
+              </button>
+          </a>
 
         actions:
           - type: Link
