@@ -484,7 +484,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: ''
     items: []
     actions:
       - type: Button
