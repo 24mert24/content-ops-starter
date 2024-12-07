@@ -599,6 +599,7 @@ seo:
     - type: MetaTag
       property: 'twitter:title'
       content: 'MC-Reisen24 – Günstige Reisen, Flüge, Hotels & Mietwagen buchen'
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
