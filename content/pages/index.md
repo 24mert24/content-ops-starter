@@ -307,10 +307,10 @@ sections:
             textAlign: center
             justifyContent: center
             margin:
-              - mt-5
-              - ml-5
-              - mb-5
-              - mr-5
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
         type: FeaturedItem
         actions: []
       - title: Mietwagen
