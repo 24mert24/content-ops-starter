@@ -86,6 +86,7 @@ seo:
         Mietwagen und Traumurlaube. Entdecken Sie unsere Geschichte, Mission und
         Vision!
     - type: MetaTag
+      property: 'og:url'
   addTitleSuffix: true
   socialImage: /images/Social_Kit_DP copy 2.jpg
 ---
