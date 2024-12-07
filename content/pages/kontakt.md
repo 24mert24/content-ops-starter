@@ -135,46 +135,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      <a
-      href="https\://wa.me/4915112345678?text=Hallo,%20ich%20habe%20eine%20Frage%20zu%20Ihren%20Reiseangeboten"
-      target="\_blank" style="text-decoration:none; color:#25D366;
-      font-size:18px;"><i class="fa fa-whatsapp"></i> WhatsApp Nachricht senden
-
-      </a>
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
