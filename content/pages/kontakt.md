@@ -105,7 +105,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: center
+            textAlign: left
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
