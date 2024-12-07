@@ -574,6 +574,7 @@ seo:
     und bequem!
   socialImage: /images/svg.svg
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 isDraft: false
 ---
