@@ -67,8 +67,12 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      <a
+      href="https\://wa.me/4915112345678?text=Hallo,%20ich%20habe%20eine%20Frage%20zu%20Ihren%20Reiseangeboten"
+      target="\_blank" style="text-decoration:none; color:#25D366;
+      font-size:18px;"><i class="fa fa-whatsapp"></i> WhatsApp Nachricht senden
+
+      </a>
     actions:
       - type: Button
         label: Get started
