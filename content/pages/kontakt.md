@@ -105,7 +105,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: flex-end
     actions: []
     variant: two-col-grid
