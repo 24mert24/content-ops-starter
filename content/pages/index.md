@@ -568,7 +568,10 @@ sections:
           - pr-5
 seo:
   metaTitle: MC-Reisen24 – Günstige Reisen und Traumurlaub online buchen
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    MC-Reisen24 – Buchen Sie günstige Reisen, Flüge, Hotels und Mietwagen.
+    Entdecken Sie Pauschalangebote und Traumurlaube online – einfach, schnell
+    und bequem!
   socialImage: /images/svg.svg
   type: Seo
 type: PageLayout
