@@ -135,7 +135,7 @@ sections:
               - pl-8
               - pb-8
               - pr-8
-            textAlign: center
+            textAlign: left
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
