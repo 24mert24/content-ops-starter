@@ -517,7 +517,7 @@ sections:
           options:
             - Flug
             - Pauschalreise
-            - ''
+            - Hotel
           isRequired: false
           width: full
         - name: nachricht
