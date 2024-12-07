@@ -44,7 +44,7 @@ sections:
           hideLabel: true
           defaultValue: Reiseart auswählen
           options:
-            - ''
+            - Flug
           isRequired: false
           width: full
         - type: TextareaFormControl
