@@ -106,6 +106,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             textAlign: left
+            justifyContent: center
     actions: []
     variant: two-col-grid
     colors: bg-neutral-fg-dark
