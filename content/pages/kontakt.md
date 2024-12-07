@@ -5,14 +5,17 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Kontakt
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Nutzen Sie unser Kontaktformular, um uns schnell und unkompliziert Ihre
+      Anfragen oder Wünsche mitzuteilen. Wir freuen uns darauf, Ihnen zu helfen
+      und werden uns zeitnah mit einer Antwort bei Ihnen melden!
+
+
+      Schreibe deine Reisedaten und die Personenanzahl in das Nachrichtenfenster
+      ->
     actions: []
     media:
       type: FormBlock
@@ -21,25 +24,46 @@ sections:
           name: name
           label: Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Dein Name
           isRequired: true
           width: full
         - type: EmailFormControl
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Deine Mailadresse
           isRequired: true
+          width: full
+        - type: TextFormControl
+          name: telefon
+          label: Name
+          hideLabel: true
+          placeholder: Deine Telefonnummer
+          isRequired: true
+          width: full
+        - type: SelectFormControl
+          name: reiseart
+          label: reiseart
+          hideLabel: true
+          defaultValue: Reiseart auswählen
+          options:
+            - Flug
+            - Pauschalreise
+            - ''
+            - Mietwagen
+            - Andere
+          isRequired: false
           width: full
         - type: TextareaFormControl
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Deine Nachricht
           width: full
+          isRequired: true
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Senden
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -57,21 +81,32 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: Kontaktiere uns
       color: text-primary
     colors: bg-light-fg-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Weitere Kontaktmöglichkeiten
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: WhatsApp
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -91,7 +126,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Instagram
         subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -111,7 +146,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: Mail
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -128,13 +163,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
@@ -147,6 +176,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
 slug: kontakt
 seo:
   type: Seo
