@@ -488,7 +488,7 @@ sections:
     items: []
     actions:
       - type: Button
-        label: Apply now
+        label: Hier klicken!
         url: /
         icon: arrowRight
         iconPosition: right
