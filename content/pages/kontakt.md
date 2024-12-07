@@ -83,7 +83,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Sales
+        subtitle: ''
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
