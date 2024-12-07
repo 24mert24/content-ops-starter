@@ -476,6 +476,35 @@ sections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Jetzt in Kontakt treten!
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items: []
+    actions:
+      - type: Button
+        label: Hier klicken!
+        url: /kontakt
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-8
+          - pt-8
+          - pl-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
