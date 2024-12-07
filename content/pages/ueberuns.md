@@ -77,4 +77,5 @@ seo:
     für Ihren perfekten Urlaub!
   metaTags: []
   addTitleSuffix: true
+  socialImage: /images/Social_Kit_DP copy 2.jpg
 ---
