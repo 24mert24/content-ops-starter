@@ -160,7 +160,15 @@ sections:
 
 
 
-        actions: []
+        actions:
+          - type: Link
+            altText: ''
+            url: 'https://www.instagram.com/mc_reisen24.de/'
+            showIcon: true
+            icon: instagram
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
