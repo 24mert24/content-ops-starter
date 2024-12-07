@@ -594,6 +594,7 @@ seo:
       property: 'og:type'
       content: website
     - type: MetaTag
+      property: 'twitter:card'
 type: PageLayout
 isDraft: false
 ---
