@@ -76,4 +76,5 @@ seo:
     Hotels, Mietwagen und Traumurlaube. Entdecken Sie unsere Mission und Vision
     für Ihren perfekten Urlaub!
   metaTags: []
+  addTitleSuffix: true
 ---
