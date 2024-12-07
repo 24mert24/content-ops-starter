@@ -107,7 +107,7 @@ sections:
     items:
       - type: FeaturedItem
         title: WhatsApp
-        subtitle: Sales
+        subtitle: ''
         text: >+
           <a
           href="https\://wa.me/4915112345678?text=Hallo,%20ich%20habe%20eine%20Frage%20zu%20Ihren%20Reiseangeboten"
