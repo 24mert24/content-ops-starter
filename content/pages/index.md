@@ -555,6 +555,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    elementId: kontakt
   - type: DividerSection
     title: Divider
     elementId: ''
