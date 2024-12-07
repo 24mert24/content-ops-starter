@@ -593,6 +593,7 @@ seo:
     - type: MetaTag
       property: 'og:type'
       content: website
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
