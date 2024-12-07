@@ -70,7 +70,7 @@ sections:
 slug: ueberuns
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: Über MC-Reisen24 – Ihr Experte für günstige Reisen und Traumurlaube
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
