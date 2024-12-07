@@ -605,6 +605,7 @@ seo:
         Buchen Sie Pauschalreisen, Last Minute Angebote und Traumurlaube online
         – einfach, schnell und günstig bei MC-Reisen24!
     - type: MetaTag
+      property: 'twitter:image'
 type: PageLayout
 isDraft: false
 ---
