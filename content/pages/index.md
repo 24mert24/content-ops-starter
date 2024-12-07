@@ -515,6 +515,14 @@ sections:
           placeholder: Deine Nachricht
           width: full
           type: TextareaFormControl
+        - type: SelectFormControl
+          name: Reiseart
+          label: Company size
+          hideLabel: false
+          defaultValue: Please choose...
+          options: []
+          isRequired: false
+          width: full
       elementId: contact-form
       styles:
         self:
