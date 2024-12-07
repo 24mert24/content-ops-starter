@@ -11,7 +11,7 @@
         {
             "label": "Kontakt",
             "altText": "kontakt",
-            "url": "/contact-form",
+            "url": "/kontakt",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
