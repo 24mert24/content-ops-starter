@@ -584,6 +584,7 @@ seo:
       content: >-
         Entdecken Sie Pauschalangebote und Traumurlaube online bei MC-Reisen24.
         Buchen Sie Flüge, Hotels und Mietwagen einfach und bequem!
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
