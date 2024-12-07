@@ -580,6 +580,7 @@ seo:
       property: 'og:title'
       content: 'MC-Reisen24 – Günstige Reisen, Flüge, Hotels & Mietwagen buchen'
     - type: MetaTag
+      property: 'og:description'
 type: PageLayout
 isDraft: false
 ---
