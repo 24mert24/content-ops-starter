@@ -509,6 +509,19 @@ sections:
           placeholder: Deine Telefonnummer
           isRequired: true
           width: full
+        - type: SelectFormControl
+          name: Reiseart
+          label: Reiseart
+          hideLabel: true
+          defaultValue: Reiseart
+          options:
+            - Flug
+            - Pauschalreise
+            - Hotel
+            - Mietwagen
+            - Andere
+          isRequired: false
+          width: full
         - name: nachricht
           label: Nachricht
           hideLabel: true
@@ -554,10 +567,16 @@ sections:
           - pb-5
           - pr-5
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: MC-Reisen24 – Günstige Reisen und Traumurlaub online buchen
+  metaDescription: >-
+    MC-Reisen24 – Buchen Sie günstige Reisen, Flüge, Hotels und Mietwagen.
+    Entdecken Sie Pauschalangebote und Traumurlaube online – einfach, schnell
+    und bequem!
   socialImage: /images/svg.svg
   type: Seo
+  addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
